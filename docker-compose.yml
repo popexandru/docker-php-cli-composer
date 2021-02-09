@@ -1,6 +1,3 @@
-#### NOT TESTED
-#### TO RUN IT: docker-compose up -d
-
 # tell docker what version of the docker-compose.yml we're using
 version: '3'
 
